@@ -1,0 +1,13 @@
+# DavinciCodeOS Vergion - Android 12.1 - 20220404-2145
+
+- Switched to a user build
+- Call recording support
+- Fixed wakelock battery drain issue
+- Replace system-wide zlib with faster and more efficient zlib-ng (increases gaming, image rendering and web browsing performance)
+- Spoof device as Pixel XL for better images in Snapchat
+- Kernel included with the rom is now built with the same toolchain as standalone
+- Safer SELinux enforcement
+- Updated to latest vendor sources
+- Updated to latest PE upstream sources
+
+Note: This is a performance oriented release. Various speed improvements have been added under the hood to provide a smoother user experience.

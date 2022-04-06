@@ -146,3 +146,5 @@ if __name__ == "__main__":
     print("Writing JSON...")
 
     write_data(device_name, args.pre)
+
+    print(f"Please now update {device_name}_changelog.txt!")
