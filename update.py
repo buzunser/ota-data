@@ -3,7 +3,7 @@ import argparse
 import hashlib
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from urllib.parse import urlparse
 
 import requests
@@ -54,7 +54,9 @@ def generate_datetime(date: str, time: str) -> int:
     hour = int(time[:2])
     minute = int(time[2:])
 
-    dt = datetime(year=year, month=month, day=day, hour=hour, minute=minute)
+    dt = datetime(
+        year=year, month=month, day=day, hour=hour, minute=minute, tzinfo=timezone.utc
+    )
     timestamp = int(dt.timestamp())
 
     return timestamp
