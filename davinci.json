@@ -4,22 +4,22 @@
     "maintainers": [
         {
             "main_maintainer": true,
-            "github_username": "Diniboy1123",
-            "name": "Mary Johanna"
+            "github_username": "buzunser",
+            "name": "buzunser"
         },
         {
             "main_maintainer": true,
-            "github_username": "Gelbpunkt",
-            "name": "Jens Reidel"
+            "github_username": "buzunser",
+            "name": "buzunser"
         }
     ],
     "donate_url": "",
-    "website_url": "https://github.com/DavinciCodeOS/",
-    "news_url": "https://t.me/DavinciCodeOS_Support",
+    "website_url": "https://github.com/buzunser/",
+    "news_url": "",
     "datetime": 1649101500,
-    "filename": "DavinciCodeOS_davinci-12.1-20220404-2145-OFFICIAL.zip",
+    "filename": "PixelExperience_davinci-12.1-20220409-1300-UNOFFICIAL.zip",
     "id": "d25d7b0007bd50ba75098d6b5d62a1d4",
-    "size": 1824286089,
+    "size": 1824037724,
     "url": "https://github.com/DavinciCodeOS/Cathedra/releases/download/vergion/DavinciCodeOS_davinci-12.1-20220404-2145-OFFICIAL.zip",
     "filehash": "d3080bf87a6156e84775820dca2cfd43"
 }
