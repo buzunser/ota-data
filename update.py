@@ -9,7 +9,7 @@ from urllib.parse import urlparse
 import requests
 from tqdm import tqdm
 
-OS_NAME = "DavinciCodeOS"
+OS_NAME = "PixelExperience"
 
 CHUNK_SIZE = 1024 * 1024 * 4  # 4MB
 
