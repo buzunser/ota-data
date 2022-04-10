@@ -1,6 +1,6 @@
 # ota-data
 
-This repository contains the data about current pre-releases and releases of DavinciCodeOS used in the built-in updater.
+This repository contains the data about current pre-releases and releases of PixelExperience davinci used in the built-in updater.
 
 ## Dependencies
 
