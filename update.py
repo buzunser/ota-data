@@ -19,18 +19,18 @@ DEVICE_DATA = {
     "maintainers": [
         {
             "main_maintainer": True,
-            "github_username": "Diniboy1123",
-            "name": "Mary Johanna",
+            "github_username": "buzunser",
+            "name": "buzunser",
         },
         {
             "main_maintainer": True,
-            "github_username": "Gelbpunkt",
-            "name": "Jens Reidel",
+            "github_username": "buzunser",
+            "name": "buzunser",
         },
     ],
     "donate_url": "",
-    "website_url": "https://github.com/DavinciCodeOS/",
-    "news_url": "https://t.me/DavinciCodeOS_Support",
+    "website_url": "https://github.com/buzunser/",
+    "news_url": "",
     "datetime": None,  # To be filled in
     "filename": None,  # To be filled in
     "id": None,  # To be filled in
