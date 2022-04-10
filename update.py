@@ -29,7 +29,7 @@ DEVICE_DATA = {
         },
     ],
     "donate_url": "",
-    "website_url": "https://github.com/buzunser/",
+    "website_url": "https://blog.pixelexperience.org/",
     "news_url": "",
     "datetime": None,  # To be filled in
     "filename": None,  # To be filled in
