@@ -6,20 +6,15 @@
             "main_maintainer": true,
             "github_username": "buzunser",
             "name": "buzunser"
-        },
-        {
-            "main_maintainer": true,
-            "github_username": "buzunser",
-            "name": "buzunser"
         }
     ],
     "donate_url": "",
     "website_url": "https://blog.pixelexperience.org/",
-    "news_url": "",
-    "datetime": 1649571541,
-    "filename": "PixelExperience_davinci-12.1-20220409-1300-UNOFFICIAL.zip",
-    "id": "d25d7b0007bd50ba75098d6b5d62a1d4",
-    "size": 1824037724,
-    "url": "https://github.com/DavinciCodeOS/Cathedra/releases/download/vergion/DavinciCodeOS_davinci-12.1-20220404-2145-OFFICIAL.zip",
-    "filehash": "d3080bf87a6156e84775820dca2cfd43"
+    "news_url": "https://blog.pixelexperience.org/",
+    "datetime": 1749571541,
+    "filename": "PixelExperience_davinci-12.1-20220409-0619-UNOFFICIAL.zip",
+    "id": "419e788717d6c8a6d8465042046bb6e4",
+    "size": 1809787927,
+    "url": "https://github.com/DavinciCodeOS/Cathedra/releases/download/20220406-2056-prev/DavinciCodeOS_davinci-12.1-20220406-2056-OFFICIAL.zip",
+    "filehash": "7994ae733e1e4ecc54d214978a3f2692"
 }
