@@ -9,6 +9,7 @@ PixelExperience changes:
 - Others fixes
 
 Device changes:
+- Disabled data encryption no longer need to install dfe
 - Add OTA updates
 - Fixed fast charging switch display and work without root
 - More rules added SELinux sepolicy
