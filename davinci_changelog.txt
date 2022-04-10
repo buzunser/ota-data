@@ -1,13 +1,15 @@
-# DavinciCodeOS Vergion - Android 12.1 - 20220404-2145
+# PixelExperience - Android 12.1
 
-- Switched to a user build
-- Call recording support
-- Fixed wakelock battery drain issue
-- Replace system-wide zlib with faster and more efficient zlib-ng (increases gaming, image rendering and web browsing performance)
-- Spoof device as Pixel XL for better images in Snapchat
-- Kernel included with the rom is now built with the same toolchain as standalone
-- Safer SELinux enforcement
-- Updated to latest vendor sources
-- Updated to latest PE upstream sources
+As usual, the latest security patch has been merged into our sources and we also made some under the hood improvements:
+PixelExperience changes:
+- April security patch
+- Fixed charging animation not appearing
+- Fixed unlock sound playing repeatedly
+- Updated translations
+- Others fixes
 
-Note: This is a performance oriented release. Various speed improvements have been added under the hood to provide a smoother user experience.
+Device changes:
+- Add OTA updates
+- Fixed fast charging switch display and work without root
+- More rules added SELinux sepolicy
+- Others fixes and more stability
