@@ -1,25 +1,13 @@
 {
-    "error": false,
-    "version": "twelve",
-    "maintainers": [
-        {
-            "main_maintainer": true,
-            "github_username": "buzunser",
-            "name": "buzunser"
-        },
-        {
-            "main_maintainer": true,
-            "github_username": "buzunser",
-            "name": "buzunser"
-        }
-    ],
-    "donate_url": "",
-    "website_url": "https://blog.pixelexperience.org/",
-    "news_url": "",
-    "datetime": 1749571541,
-    "filename": "DavinciCodeOS_davinci-12.1-20220406-2056-OFFICIAL.zip",
-    "id": "419e788717d6c8a6d8465042046bb6e4",
-    "size": 1809787927,
-    "url": "https://github.com/DavinciCodeOS/Cathedra/releases/download/20220406-2056-prev/DavinciCodeOS_davinci-12.1-20220406-2056-OFFICIAL.zip",
-    "filehash": "7994ae733e1e4ecc54d214978a3f2692"
+  "response": [
+    {
+      "datetime": 1648537176,
+      "filename": "PixelExperience_davinci-12.1-20220329-0700-STABLE.zip",
+      "id": "d51b6ae7bd5dfe83304875ece3af265b",
+      "romtype": "stable",
+      "size": 1840038870,
+      "url": "https://pe.yp-hq.com:31880/PixelExperience_davinci-12.1-20220410-0700-STABLE.zip",
+      "version": "12.1"
+    }
+  ]
 }
