@@ -4,18 +4,18 @@
     "maintainers": [
         {
             "main_maintainer": true,
-            "github_username": "Diniboy1123",
-            "name": "Mary Johanna"
+            "github_username": "buzunser",
+            "name": "buzunser"
         },
         {
             "main_maintainer": true,
-            "github_username": "Gelbpunkt",
-            "name": "Jens Reidel"
+            "github_username": "buzunser",
+            "name": "buzunser"
         }
     ],
     "donate_url": "",
-    "website_url": "https://github.com/DavinciCodeOS/",
-    "news_url": "https://t.me/DavinciCodeOS_Support",
+    "website_url": "https://github.com/buzunser/",
+    "news_url": "",
     "datetime": 1649278560,
     "filename": "DavinciCodeOS_davinci-12.1-20220406-2056-OFFICIAL.zip",
     "id": "419e788717d6c8a6d8465042046bb6e4",
